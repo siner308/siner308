@@ -40,7 +40,7 @@
 
 ## 진행중인 개인/팀 프로젝트
 - 모바일 증강현실 게임 [Ingress](https://ingress.com)의 서드파티 툴을 개발/운영중입니다.
-- GraphQL과 React를 사용하는 Gatsby의 매력에 빠져 최근 [Jekyll 블로그](https://siner308.github.io)를 [Gatsby 블로그](https://blogtest.siner.io)로 이전중입니다.
+- GraphQL과 React를 사용하는 Gatsby의 매력에 빠져 최근 [Jekyll 블로그](https://blog.siner.io)를 [Gatsby 블로그](https://blogtest.siner.io)로 이전중입니다.
 - Admob을 통해 수익을 창출하는 앱을 만들어보고 싶어서 연습용 서비스를 만들어보고 있습니다. (서버 만드는 중)
 - Operation System Concepts (그 공룡책) 공부중입니다. (원서 너무 어렵네요...)
 - <details>
