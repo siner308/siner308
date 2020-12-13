@@ -58,11 +58,10 @@
   `Gatsby`, `React`, styled-component, bootstrap, socket.io-client
 
   #### Deploy Stack
-  ~EC2, ECS, Lambda (with Cloudwatch Scheduler), Cloudfront, S3, Elastic Beanstalk~<br>
-  ubuntu (home server), docker compose
+  `ubuntu (home server)`, `docker compose`, `Virtual Box`, `VPN` ~돈이 없어요...ㅠㅠ~
 
   #### CI/CD
-  `github action`, jenkins, circleci
+  `Github Action`, Jenkins, CircleCI
 
   #### Database
   `GraphQL`, `REST API`, `ElasticSearch`, `Mysql (with Typeorm)`, `MongoDB (with Mongoose)`, `Redis (for Cache, Event Driven)`, MariaDB, PostgreSQL (with Django ORM)
