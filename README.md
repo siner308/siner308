@@ -1,8 +1,8 @@
-### 인사말 👋
-안녕하세요! 개발 커뮤니티 어디에나 있지만 어디에도 없는 안정현(Siner) 입니다.<br>
-백엔드를 메인으로 하고있지만, 프론트, UX/UI, CI/CD, 머신러닝, 비즈니스 모델 등 모든 분야에 관심이 많습니다. 개인적인 연락은 언제든지 환영입니다
+### Hello 👋
 
 - siner308@gmail.com
+- [TTBKK (tteokbokki map)](https://ttbkk.com)
+- [BLOG](https://blog.siner.io)
 - [facebook](https://www.facebook.com/aan308)
 - [instagram](https://www.instagram.com/jeonghyunan/)
 
