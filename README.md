@@ -1,9 +1,14 @@
-### Hello 👋
+## Hello 👋
 
-- siner308@gmail.com
+#### Blog
+- [https://blog.siner.io](https://blog.siner.io)
+
+#### Published Toy Projects
 - [TTBKK (tteokbokki map)](https://ttbkk.com)
-- [BLOG](https://blog.siner.io)
-- [facebook](https://www.facebook.com/aan308)
-- [instagram](https://www.instagram.com/jeonghyunan/)
+
+#### Contacts
+- [Facebook](https://www.facebook.com/aan308)
+- [Instagram](https://www.instagram.com/jeonghyunan/)
+- siner308@gmail.com
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/siner308/mystack)
