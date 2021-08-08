@@ -1,6 +1,6 @@
 ## Hello 👋
 
-#### Blog
+#### Blog (written in Korean)
 - [https://blog.siner.io](https://blog.siner.io)
 
 #### Published Toy Projects
