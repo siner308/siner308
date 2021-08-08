@@ -4,7 +4,7 @@
 - Working at [Creatrip](https://creatrip.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=siner308&show_icons=true&count_private=true" height=200 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siner308&layout=compact&exclude_repo=ml-study" height=200 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siner308&layout=compact&exclude_repo=ml-study&langs_count=10"  />
 
 #### Blog (written in Korean)
 [![Blog](http://img.shields.io/badge/-Blog-663399?style=flat-square&logo=gatsby&logoColor=white&link=https://blog.siner.io)](https://blog.siner.io)
