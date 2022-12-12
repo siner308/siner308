@@ -3,8 +3,8 @@
 - Country: Republic Of Korea 🇰🇷
 - Working at [Devsisters](https://www.devsisters.com/ko/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=siner308&show_icons=true&count_private=true" height=200 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siner308&layout=compact&exclude_repo=ml-study&langs_count=10"  />
+<img src="https://github-readme-stats.vercel.app/api?username=siner308&show_icons=true&count_private=true" style="height:200px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siner308&layout=compact&exclude_repo=ml-study&langs_count=10" style="height:200px" />
 
 #### Blog (written in Korean)
 [![Blog](http://img.shields.io/badge/-Blog-663399?style=flat-square&logo=gatsby&logoColor=white&link=https://blog.siner.io)](https://blog.siner.io)
